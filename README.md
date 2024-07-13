@@ -14,8 +14,10 @@
 
 <div>
     <img alt="AndersonCamposs - Python" align=center width=40 heigth=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-    <img alt="AndersonCamposs - Java" align=center width=40 heigth=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>        
-    <img alt="AndersonCamposs - C" align=center width=40 heigth=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
+    <img alt="AndersonCamposs - Java" align=center width=40 heigth=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/> 
+    <img alt="AndersonCamposs - JavaScript" align=center width=40 heigth=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+    <img alt="AndersonCamposs - C" align=center width=40 heigth=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
+    <img alt="AndersonCamposs - C" align=center width=40 heigth=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>
 </div>
 
 <br/>
