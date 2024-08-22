@@ -1,7 +1,12 @@
-## Olá! Me chamo Anderson Campos.
-### Sou acadêmico de:
-- Análise e Desenvolvimento de Sistemas 💻;
-- Licenciatura em Computação 👨🏽‍🏫;
+# Bem vindo ao meu perfil do GitHub.
+## Atualmente, sou _estudante_ de:
+> ### Análise e Desenvolvimento de Sistemas 💻;
+
+> ### Licenciatura em Computação 👨🏽‍🏫;<br/>
+
+## Quer me conhecer melhor?
+Dê uma olhada no meu `Portfólio`, disponível em:
+<link src="https://andersoncamposs.github.io" target="_blank"><img alt="GitHub Pages Badge" src="https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white"/></link>
 
 <div>
     <a href="https://github.com/AndersonCamposs">
@@ -10,18 +15,3 @@
     <img heigth="180em" width="500em "src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonCamposs&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
-<br/>
-
-<div>
-    <img alt="AndersonCamposs - Python" align=center width=40 heigth=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-    <img alt="AndersonCamposs - Java" align=center width=40 heigth=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/> 
-    <img alt="AndersonCamposs - JavaScript" align=center width=40 heigth=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-    <img alt="AndersonCamposs - NodeJS" align=center width=40 heigth=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
-    <img alt="AndersonCamposs - MongoDB" align=center width=40 heigth=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>
-</div>
-
-<br/>
-
-<div>
-  <a href="mailto:anderson.camposs87@outlook.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"> </a>
-</div>
