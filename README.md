@@ -7,7 +7,7 @@
 ## Quer me conhecer melhor?
 #### Dê uma olhada no meu `Portfólio`, disponível em:
 
-<a href="https://andersoncamposs.github.io" target="blank"><img alt="GitHub Pages Badge" src="https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white"/></a>
+<a href="https://andersoncamposs.github.io" target="_blank"><img alt="GitHub Pages Badge" src="https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white"/></a>
 
 <div>
     <a href="https://github.com/AndersonCamposs">
