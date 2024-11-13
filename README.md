@@ -11,14 +11,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndersonCamposs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=pt-br&hide_border=false&order=1" height="190" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndersonCamposs&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=gotham&hide_border=false&order=2" height="190" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AndersonCamposs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=pt-br&hide_border=false&order=1" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndersonCamposs&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=gotham&hide_border=false&order=2" height="180" alt="languages graph"  />
 </div>
 
 ###
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AndersonCamposs/AndersonCamposs/output/snake.svg" alt="Snake animation" />
-</div>
+
+<img src="https://raw.githubusercontent.com/AndersonCamposs/AndersonCamposs/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -48,6 +47,13 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<div align="center">
+  <a href="www.linkedin.com/in/anderson-campos-08b04b31b" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:anderson.camposs87@outlook.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="microsoft-outlook logo"  />
+  </a>
+</div>
 
 ###
