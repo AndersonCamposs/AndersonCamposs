@@ -55,7 +55,7 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/anderson-campos-08b04b31b" target="_blank">
+  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="linkedin logo"  />
   </a>
   <a href="mailto:anderson.camposs87@outlook.com" target="_blank">
