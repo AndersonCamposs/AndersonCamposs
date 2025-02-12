@@ -18,10 +18,10 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndersonCamposs&count_private=true&show_icons=true&theme=chartreuse-dark" heigth="200" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AndersonCamposs&count_private=true&show_icons=true&theme=dark" heigth="200" width="400" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndersonCamposs&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false&order=2" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndersonCamposs&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="180" alt="languages graph"  />
 </div>
 
 ###
