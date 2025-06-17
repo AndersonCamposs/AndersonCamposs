@@ -6,5 +6,7 @@
 
 ## 🤖 Tecnologias que domino
 ### Backend
-
-Em construção...
+[![Backend skills](https://skillicons.dev/icons?i=spring,java,nodejs,express,php,python)](https://skillicons.dev)
+##
+### Frontend
+[![Backend skills](https://skillicons.dev/icons?i=js,html,css,react,vue)](https://skillicons.dev)
