@@ -1,34 +1,46 @@
-## 👋 Olá, bem vindo ao meu perfil!
+## 👋 Olá, bem-vindo ao meu perfil!
 
-💻 Desenvolvedor de software com sólida experiência em desenvolvimento web. </br>
-🧠 Estudante de Análise e Desenvolvimento de Sistemas e Licenciatura em Computação. </br>
-🌱 Foco em construir cada vez mais conhecimento. </br>
+💻 Desenvolvedor de software com sólida experiência em desenvolvimento web.  
+🧠 Estudante de Análise e Desenvolvimento de Sistemas e Licenciatura em Computação.  
+🌱 Foco em construir cada vez mais conhecimento.
 
 ## 🤖 Tecnologias que domino
-### Backend
-[![Spring](https://skillicons.dev/icons?i=spring)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Express](https://skillicons.dev/icons?i=express)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![PHP](https://skillicons.dev/icons?i=php)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-##
-### Frontend
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Vue](https://skillicons.dev/icons?i=vue)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=spring" style="width:48px; height:48px; padding:0 8px;"/>  
+  <img src="https://skillicons.dev/icons?i=java" style="width:48px; height:48px; padding:0 8px;"/>  
+  <img src="https://skillicons.dev/icons?i=nodejs" style="width:48px; height:48px; padding:0 8px;"/>  
+  <img src="https://skillicons.dev/icons?i=express" style="width:48px; height:48px; padding:0 8px;"/>  
+  <img src="https://skillicons.dev/icons?i=php" style="width:48px; height:48px; padding:0 8px;"/>  
+  <img src="https://skillicons.dev/icons?i=python" style="width:48px; height:48px; padding:0 8px;"/>  
+</p>
 
-## Databases
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" style="width: 48px; height: 48px"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" style="width: 48px; height: 48px"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" style="width: 48px; height: 48px"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" style="width: 48px; height: 48px"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+---
 
-##
-### Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="width: 48px; height: 48px"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" style="width: 48px; height: 48px"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+### </> Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=js" style="width:48px; height:48px; padding:0 8px;"/>  
+  <img src="https://skillicons.dev/icons?i=html" style="width:48px; height:48px; padding:0 8px;"/>  
+  <img src="https://skillicons.dev/icons?i=css" style="width:48px; height:48px; padding:0 8px;"/>  
+  <img src="https://skillicons.dev/icons?i=react" style="width:48px; height:48px; padding:0 8px;"/>  
+  <img src="https://skillicons.dev/icons?i=vue" style="width:48px; height:48px; padding:0 8px;"/>  
+</p>
 
+---
+
+### 🗃️ Databases
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" style="width:48px; height:48px; padding:0 8px;"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" style="width:48px; height:48px; padding:0 8px;"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" style="width:48px; height:48px; padding:0 8px;"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" style="width:48px; height:48px; padding:0 8px;"/>  
+</p>
+
+---
+
+### 🛠️ Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="width:48px; height:48px; padding:0 8px;"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" style="width:48px; height:48px; padding:0 8px;"/>  
+</p>
